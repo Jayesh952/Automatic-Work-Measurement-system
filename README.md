@@ -1,5 +1,5 @@
 # Automatic-Employee-Management-system
-An automatic work measurement system which is based on Artificial Intelligence, Deep Learning and version control
+An automatic work measurement system which is based on Artificial Intelligence, Deep Learning and version control.
 
 # Dependencies
 1.Numpy<br>
@@ -8,3 +8,5 @@ An automatic work measurement system which is based on Artificial Intelligence, 
 4.dlib<br>
 5.cmake<br>
 
+# Working
+ The model provides a detailed description about various factors of the employees without any human interaction.The model also monitors the web browser and gives a detailed view of his/her performance.
