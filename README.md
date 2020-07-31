@@ -3,8 +3,8 @@ An automatic work measurement system which is based on Artificial Intelligence, 
 
 # Dependencies
 1.Numpy<br>
-2.SciPy
-3.OpenCV
-4.dlib
-5.cmake
+2.SciPy<br>
+3.OpenCV<br>
+4.dlib<br>
+5.cmake<br>
 
